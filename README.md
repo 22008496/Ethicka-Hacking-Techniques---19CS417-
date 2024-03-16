@@ -61,6 +61,16 @@ CLIENT SIDE:
 
 ![Screenshot 2024-03-05 082013](https://github.com/22008496/Ethicka-Hacking-Techniques---19CS417-/assets/119476113/5930af7e-1afa-4632-8729-e808d729b35a)
 
+output:
+client:
+
+![264525609-501596a8-0c41-424b-9664-edc5c34acc13](https://github.com/22008496/Ethicka-Hacking-Techniques---19CS417-/assets/119476113/2d1398b1-5f9f-40a5-811a-59b54c5e53b5)
+
+
+server:
+
+
+![264525651-52322370-9545-4aeb-af64-a014f1d3febc](https://github.com/22008496/Ethicka-Hacking-Techniques---19CS417-/assets/119476113/42c2b059-2cd0-49d4-94ac-e8391fb22ae6)
 
 
 ## RESULT:
